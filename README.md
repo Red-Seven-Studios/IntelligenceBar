@@ -2,6 +2,10 @@
 
 ## :warning: No more downloads with be served here please use IntelligencePOS :warning:
 
-# OLD README:
-# ~~IntelligenceBar~~
+ 
+
+
+
+## OLD README:
+### ~~IntelligenceBar~~
 ~~Manage your own bar.~~
